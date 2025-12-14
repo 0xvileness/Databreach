@@ -5,7 +5,7 @@ print()
 print(" ┳┓       ┳┓       ┓  ")
 print(" ┃┃┏┓╋┏┓  ┣┫┏┓┏┓┏┓┏┣┓ ")
 print(" ┻┛┗┻┗┗┻  ┻┛┛ ┗ ┗┻┗┛┗ ")
-print("  Made By @Oxycrime   ")                 
+print("  Made By @Oxvileness   ")                 
 
 
 def load_api_key():
